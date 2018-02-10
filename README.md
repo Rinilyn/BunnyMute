@@ -3,7 +3,7 @@
 Did you ever plug your bunny and think..What if the anti-virus detects my attack..
 What if i was behind a box and can't see what im dealing with..
 What if i was playing PUBG and the lobby was too loud and i was too lazy to press the keyboard mute button...
-The scenarios are infinte! that is why it is my please to introduce BunnyMute!
+The scenarios are infinte! That is why it is my pleasure to introduce BunnyMute!
 All you have to do is create a shortcut, put this as path:
 
 
